@@ -34,7 +34,7 @@ class AuthController {
         include 'app/view/register.php';
     }
 
-    // AuthController.php - Logique d'inscription
+    // Logique d'inscription
     public function processRegister() {
         echo 'test';
        
